@@ -3,5 +3,5 @@
 int main(int argc, char* atgv[])
 {
 
-	return 1;
+	return 0;
 }
