@@ -4,7 +4,7 @@
 // main function
 int main(int argc, char* atgv[])
 {
-	printf("%d", 100);
+	printf("%d\n", 100);
 
 	return 0;
 }
